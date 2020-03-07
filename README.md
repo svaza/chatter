@@ -6,7 +6,7 @@ I know that there are many good file transfer apps, and in the world of cloud te
 This project was developed years back i.e 2010 by me, During my colledge days as part of my final semester Diploma. However it isnt maintained
 by me right now.
 
-Feel free to clone this repo and raise BUGS/Pull requests I am open for changes.
+Feel free to clone this repo and raise BUGS/Pull requests. (This is the only section in README added latest, Other sections remains same as it is, no edits #nostalgia )
 
 # v1.2 new features and fixed bugs (from v1.1) :
 1. config.xml,users.xml path-configuration through settings.ini file
