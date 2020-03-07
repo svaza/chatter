@@ -1,0 +1,16 @@
+
+<chatter>
+
+    <user>
+        <ip-address>192.168.1.67</ip-address>
+        <user-name>Santosh Vaza</user-name>
+    </user>
+    <user>
+        <ip-address>10.3.2.73</ip-address>
+        <user-name>Praveen bairy</user-name>
+    </user>
+    <user>
+        <ip-address>10.3.0.161</ip-address>
+        <user-name>Sandesh</user-name>
+    </user>
+</chatter>

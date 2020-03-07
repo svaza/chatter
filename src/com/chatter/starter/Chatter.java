@@ -153,16 +153,20 @@ public class Chatter
             ConfigurationLoader cusers = ConfigurationLoader.newInstance(usersFilePath, chatterConsole);
             Util.users = cusers.getUsers();
         } catch (FileNotFoundException e) {
+            e.printStackTrace();
             userXML = false;
         } catch (Exception e) {
+            e.printStackTrace();
             userXML = false;
         }
         try {
             ConfigurationLoader config = ConfigurationLoader.newInstance(configFilePath, chatterConsole);
             Util.config = config.getUsers();
         } catch (FileNotFoundException e) {
+            e.printStackTrace();
             configXML = false;
         } catch (Exception e) {
+            e.printStackTrace();
             configXML = false;
         }
     }
